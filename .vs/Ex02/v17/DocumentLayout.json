@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|d:\\rozen_file\\sspu\\course\\3_autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\ex02\\ex02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|solutionrelative:ex02\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|d:\\rozen_file\\sspu\\course\\3_autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\ex02\\ex02\\databaseoperate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|solutionrelative:ex02\\databaseoperate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|d:\\rozen_file\\sspu\\course\\3_autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\ex02\\ex02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|solutionrelative:ex02\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|d:\\rozen_file\\sspu\\course\\3_autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\ex02\\ex02\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|solutionrelative:ex02\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|d:\\rozen_file\\sspu\\course\\3_autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\ex02\\ex02\\entity\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|solutionrelative:ex02\\entity\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|d:\\rozen_file\\sspu\\course\\3_autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\ex02\\ex02\\entity\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|solutionrelative:ex02\\entity\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|d:\\rozen_file\\sspu\\course\\3_autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\ex02\\ex02\\app.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|solutionrelative:ex02\\app.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|d:\\rozen_file\\sspu\\course\\3_autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\ex02\\ex02\\entity\\elective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619ED9EE-6F33-4FAA-A15E-8ADAF1D17EF8}|Ex02\\Ex02.csproj|solutionrelative:ex02\\entity\\elective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\Entity\\Subject.cs",
+              "RelativeDocumentMoniker": "Ex02\\Entity\\Subject.cs",
+              "ToolTip": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\Entity\\Subject.cs",
+              "RelativeToolTip": "Ex02\\Entity\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:26:32.341Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\App.xaml",
+              "RelativeDocumentMoniker": "Ex02\\App.xaml",
+              "ToolTip": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\App.xaml",
+              "RelativeToolTip": "Ex02\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T15:50:04.865Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\App.xaml",
+              "RelativeDocumentMoniker": "Ex02\\App.xaml",
+              "ToolTip": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\App.xaml",
+              "RelativeToolTip": "Ex02\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T15:49:53.146Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseOperate.cs",
+              "DocumentMoniker": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\DatabaseOperate.cs",
+              "RelativeDocumentMoniker": "Ex02\\DatabaseOperate.cs",
+              "ToolTip": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\DatabaseOperate.cs",
+              "RelativeToolTip": "Ex02\\DatabaseOperate.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAiwM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:56:31.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ex02\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ex02\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAYwOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:47:34.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\Entity\\Class.cs",
+              "RelativeDocumentMoniker": "Ex02\\Entity\\Class.cs",
+              "ToolTip": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\Entity\\Class.cs",
+              "RelativeToolTip": "Ex02\\Entity\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:26:02.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ex02\\MainWindow.xaml",
+              "ToolTip": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\MainWindow.xaml",
+              "RelativeToolTip": "Ex02\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T13:28:27.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Elective.cs",
+              "DocumentMoniker": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\Entity\\Elective.cs",
+              "RelativeDocumentMoniker": "Ex02\\Entity\\Elective.cs",
+              "ToolTip": "D:\\rozen_file\\SSPU\\Course\\3_Autumn\\\u6570\u636E\u5E93\u8BBE\u8BA1\u4E0E\u5E94\u7528\u7A0B\u5E8F\u5F00\u53D1\\test5\\Ex02\\Ex02\\Entity\\Elective.cs",
+              "RelativeToolTip": "Ex02\\Entity\\Elective.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:26:22.39Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
